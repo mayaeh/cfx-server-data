@@ -1,3 +1,6 @@
 [submodule "resources/fivem-loadouts"]
 	path = resources/fivem-loadouts
 	url = git@github.com:mayaeh/fivem-loadouts.git
+[submodule "resources/mysql-async"]
+	path = resources/mysql-async
+	url = git@github.com:mayaeh/fivem-mysql-async.git
