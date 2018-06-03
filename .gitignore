@@ -4,3 +4,4 @@ NLog.config
 /cache/
 /resources/\[local\]/
 server_internal.cfg
+resources/essentialmode/config.lua
